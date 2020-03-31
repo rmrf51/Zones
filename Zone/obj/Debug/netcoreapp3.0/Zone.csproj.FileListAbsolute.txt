@@ -1,0 +1,10 @@
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.exe
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.deps.json
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.runtimeconfig.json
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.runtimeconfig.dev.json
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.dll
+D:\workspace\TDD\Zone\Zone\bin\Debug\netcoreapp3.0\Zone.pdb
+D:\workspace\TDD\Zone\Zone\obj\Debug\netcoreapp3.0\Zone.AssemblyInfoInputs.cache
+D:\workspace\TDD\Zone\Zone\obj\Debug\netcoreapp3.0\Zone.AssemblyInfo.cs
+D:\workspace\TDD\Zone\Zone\obj\Debug\netcoreapp3.0\Zone.dll
+D:\workspace\TDD\Zone\Zone\obj\Debug\netcoreapp3.0\Zone.pdb
